@@ -1,0 +1,14 @@
+﻿<Window x:Class="InstaSync.UI.FollowRequest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Style="{DynamicResource Window}"
+        Title="Follow" Height="165.254" Width="350.212" WindowStartupLocation="CenterScreen" ShowInTaskbar="False" Topmost="True" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Grid Margin="0,0,0,0">
+        <Label Style="{DynamicResource Label}" x:Name="MessageLabel" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.008,-2.398" FontSize="14.667" Height="100" Width="330" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button Style="{DynamicResource Button}" x:Name="SendFollowRequestButton" Content="Accept" HorizontalAlignment="Left" Margin="10,115,0,0" Click="SendFollowRequestButton_Click" VerticalAlignment="Top"/>
+        <Button Style="{DynamicResource Button}" x:Name="DeclineFollowRequestButton" Content="Decline" HorizontalAlignment="Left" Margin="200,115,0,0" VerticalAlignment="Top" Click="DeclineFollowRequestButton_Click"/>
+    </Grid>
+</Window>
