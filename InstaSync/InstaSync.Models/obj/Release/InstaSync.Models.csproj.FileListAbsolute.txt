@@ -1,0 +1,4 @@
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Models\bin\Release\InstaSync.Models.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Models\bin\Release\InstaSync.Models.pdb
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Models\obj\Release\InstaSync.Models.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Models\obj\Release\InstaSync.Models.pdb

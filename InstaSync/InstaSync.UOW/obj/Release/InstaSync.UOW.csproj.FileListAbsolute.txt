@@ -1,0 +1,17 @@
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\NLog.config
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.UOW.dll.config
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.UOW.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.UOW.pdb
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.API.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.Models.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\NLog.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSharp.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\bouncy_castle_hmac_sha_pcl.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.API.pdb
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\InstaSync.Models.pdb
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\NLog.xml
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\obj\Release\InstaSync.UOW.csprojResolveAssemblyReference.cache
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\obj\Release\InstaSync.UOW.dll
+C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\obj\Release\InstaSync.UOW.pdb
