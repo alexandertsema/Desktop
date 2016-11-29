@@ -2,3 +2,8 @@ C:\Users\Alexander-Desktop\documents\visual studio 2015\Projects\InstaSync\Insta
 C:\Users\Alexander-Desktop\documents\visual studio 2015\Projects\InstaSync\InstaSync.Models\bin\Debug\InstaSync.Models.pdb
 C:\Users\Alexander-Desktop\documents\visual studio 2015\Projects\InstaSync\InstaSync.Models\obj\Debug\InstaSync.Models.dll
 C:\Users\Alexander-Desktop\documents\visual studio 2015\Projects\InstaSync\InstaSync.Models\obj\Debug\InstaSync.Models.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Models\bin\Debug\InstaSync.Models.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Models\bin\Debug\InstaSync.Models.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Models\obj\Debug\InstaSync.Models.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Models\obj\Debug\InstaSync.Models.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Models\obj\Debug\InstaSync.Models.pdb

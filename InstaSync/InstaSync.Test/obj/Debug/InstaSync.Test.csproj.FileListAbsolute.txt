@@ -28,3 +28,7 @@ C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\Insta
 C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Test\bin\Debug\NLog.config
 C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Test\bin\Debug\NLog.dll
 C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.Test\bin\Debug\NLog.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Test\obj\Debug\InstaSync.Test.csproj.App.config
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Test\obj\Debug\InstaSync.Test.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Test\obj\Debug\InstaSync.Test.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.Test\obj\Debug\InstaSync.Test.pdb

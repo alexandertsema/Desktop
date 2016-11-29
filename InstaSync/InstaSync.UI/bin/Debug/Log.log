@@ -1,5 +1,5 @@
-2016-03-18 21:13:35.8809 | Debug |: System.FormatException: ¬ходна€ строка имела неверный формат.
-   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
-   в System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
-   в System.Convert.ToInt64(String value)
-   в InstaSync.UI.FollowRequest.SendFollowRequestButton_Click(Object sender, RoutedEventArgs e) в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UI\FollowRequest.xaml.cs:строка 74
+2016-08-01 14:19:58.5474 | Debug |: System.UriFormatException: Ќедопустимый URI: URI пуст.
+   в System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   в System.Uri..ctor(String uriString)
+   в InstaSync.UOW.Helpers.ImageHelper.GetImage(String url) в C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.UOW\Helpers\ImageHelper.cs:строка 14
+   в InstaSync.UI.MainWindow.InitializeUI() в C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Mine\InstaSync\InstaSync.UI\MainWindow.xaml.cs:строка 53

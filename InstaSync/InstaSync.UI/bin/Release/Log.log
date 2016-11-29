@@ -1,0 +1,64 @@
+2016-07-26 20:45:05.0605 | Debug |: System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: source
+   в System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   в InstaSync.API.Managers.User.<GetUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.API\Managers\User.cs:строка 24
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Helpers.ApiHelper.<GetUser>d__0.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Helpers\ApiHelper.cs:строка 14
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Managers.UserManager.<GetNewUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Managers\UserManager.cs:строка 25
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UI.Settings.<OkButton_Click>d__4.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UI\Settings.xaml.cs:строка 73
+2016-07-26 20:45:06.4744 | Debug |: System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: source
+   в System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   в InstaSync.API.Managers.User.<GetUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.API\Managers\User.cs:строка 24
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Helpers.ApiHelper.<GetUser>d__0.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Helpers\ApiHelper.cs:строка 14
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Managers.UserManager.<GetNewUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Managers\UserManager.cs:строка 25
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UI.Settings.<OkButton_Click>d__4.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UI\Settings.xaml.cs:строка 73
+2016-07-26 20:45:08.2786 | Debug |: System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: source
+   в System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   в InstaSync.API.Managers.User.<GetUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.API\Managers\User.cs:строка 24
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Helpers.ApiHelper.<GetUser>d__0.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Helpers\ApiHelper.cs:строка 14
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Managers.UserManager.<GetNewUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Managers\UserManager.cs:строка 25
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UI.Settings.<OkButton_Click>d__4.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UI\Settings.xaml.cs:строка 73
+2016-07-26 20:45:10.4883 | Debug |: System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: source
+   в System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   в InstaSync.API.Managers.User.<GetUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.API\Managers\User.cs:строка 24
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Helpers.ApiHelper.<GetUser>d__0.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Helpers\ApiHelper.cs:строка 14
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UOW.Managers.UserManager.<GetNewUser>d__2.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UOW\Managers\UserManager.cs:строка 25
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в InstaSync.UI.Settings.<OkButton_Click>d__4.MoveNext() в C:\Users\Alexander-Desktop\Documents\Visual Studio 2015\Projects\InstaSync\InstaSync.UI\Settings.xaml.cs:строка 73

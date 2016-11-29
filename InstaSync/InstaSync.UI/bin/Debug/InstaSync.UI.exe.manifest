@@ -55,26 +55,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstaSharp.dll" size="55808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstaSharp.dll" size="55296">
       <assemblyIdentity name="InstaSharp" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>THxcmlW+kepyHIOi4m/maY7tP/afsf68oNEm8W9h1fA=</dsig:DigestValue>
+        <dsig:DigestValue>CF0Tf+EnrBpm5C7ZkI1pObuzg8FJ8rwrQvXMAcXprVg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstaSync.API.dll" size="12288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstaSync.API.dll" size="12800">
       <assemblyIdentity name="InstaSync.API" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4YvIZHxb0uq4u21lB/fB2LQFtx8/opBjk7bmHnLY9u8=</dsig:DigestValue>
+        <dsig:DigestValue>ck/x0eekJ+EBon0PdCF9UwKgI+HLIu76sJeeNKD41ww=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,19 +86,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+7t83x80d/DLVaJe7aE1u87zJYlK1YwhGcwC5LWa+VY=</dsig:DigestValue>
+        <dsig:DigestValue>18/rJLt6b80fowUu+kcozIpOd7pwTbMv/cCsJnGGYzc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstaSync.UI.exe" size="773160">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InstaSync.UI.exe" size="773672">
       <assemblyIdentity name="InstaSync.UI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>S+IkALA8fhIMyLd6t2PP9PwccP1jhyF39F/DvdjdkIE=</dsig:DigestValue>
+        <dsig:DigestValue>EeUAZDPsgGQX3Fbm6moEzoTMDH7Qx861yjejm8BBwJg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -110,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8Pql28xgCASskfAGj93s/tR7y3QXrw88SFgCBZejmbs=</dsig:DigestValue>
+        <dsig:DigestValue>jDQBib7YRcfRZfxomBLCPdBT7jxluCsx2be4Ng44ggU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -151,14 +151,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="522752">
-      <assemblyIdentity name="Newtonsoft.Json" version="8.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="526336">
+      <assemblyIdentity name="Newtonsoft.Json" version="9.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>347C4CRYKd3sW3nxkYw646P6VApaDjxBDitu8L68eSc=</dsig:DigestValue>
+        <dsig:DigestValue>V14w+Y5OpCyeUW7ci7sprYtQsXOj5rNrW6OeEzzOlAY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -192,7 +192,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>0tDIP46kX6VhYuO9uq+BfazH634HZi+sfxPxFlwgoKk=</dsig:DigestValue>
+      <dsig:DigestValue>GCTSeeoh3rnwZ8n3E17ui6RFOmpJ2lJqYOOEZHnCpoo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="InstaSyncIco.ico" size="370070">
