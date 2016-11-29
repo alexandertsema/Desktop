@@ -1,3 +1,5 @@
+(!!unsupported!!)
+
 InstaSync - Beta
 
 - This app is used to syncronize target Instagram account with local repository.
